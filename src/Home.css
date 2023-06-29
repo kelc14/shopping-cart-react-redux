@@ -1,0 +1,14 @@
+.Home h1 {
+  margin-bottom: 50px;
+}
+
+.Home a {
+  margin: 100px;
+  background-color: white;
+  border: 1px solid black;
+  font-weight: 600;
+  letter-spacing: 1px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  text-decoration: none;
+}
